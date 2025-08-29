@@ -14,7 +14,7 @@ Decrementar.addEventListener("click", function(){
 });
 
 Resetar.addEventListener("click", function(){
-    number= 0;
+    number = 0;
     contador.innerText = number;
 });
 
